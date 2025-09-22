@@ -3,8 +3,8 @@ title: Pakiko Paillie Pérez
 ---
 # Una página web de Francisco Paillie Pérez
 
-## Bio
-
 ## [Now](/now.md)
 
-## Blog
+## [Full CV](/full_cv.md)
+
+## [Blog]
