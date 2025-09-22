@@ -5,6 +5,6 @@ title: Pakiko Paillie Pérez
 
 ## Bio
 
-## Now (/now.md)
+## [Now](/now.md)
 
 ## Blog
