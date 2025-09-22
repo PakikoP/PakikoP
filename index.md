@@ -7,5 +7,5 @@ title: Pakiko Paillie Pérez
 
 ## [Full CV](/full_cv.md)
 
-## [Posts](/_posts.md)
+## [Posts](/_posts)
 
